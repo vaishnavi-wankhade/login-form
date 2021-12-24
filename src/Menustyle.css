@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Menustyle{
+    width: 100%;
+}
+
+.Menustyle ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+}
